@@ -1,0 +1,41 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "firstName": "Bijay Kumar",
+      "lastName": "Das",
+      "email": "bijay@gmail.com",
+      "mobile": "9437414370",
+      "notice": "party at 8:00Pm"
+    },
+    {
+      "id": 4,
+      "firstName": "rony",
+      "lastName": "das",
+      "email": "shubhranshudas7@gmail.com",
+      "mobile": "9437414370",
+      "notice": "grab the deal at 7:30AM"
+    },
+    {
+      "id": 5,
+      "firstName": "dinu",
+      "lastName": "sahoo",
+      "email": "dinu@123gmail.com",
+      "mobile": "7008451625",
+      "notice": "meeting at 8:45Pm"
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullname": "Shubhranshu Das",
+      "email": "shubhranshudas72@gmail.com",
+      "password": "123456",
+      "mobile": "7008180937",
+      "id": 1
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

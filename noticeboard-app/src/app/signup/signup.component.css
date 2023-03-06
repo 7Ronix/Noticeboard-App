@@ -1,0 +1,23 @@
+.card{
+    margin-top: 10px;
+    border: none;
+    width: 500px;
+    padding: 48px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #012126;
+}
+
+.text-center{
+    color: azure;
+}
+
+.card label h1,h6{
+    color:aliceblue;
+}
+
+label{
+    color: aliceblue;
+}
